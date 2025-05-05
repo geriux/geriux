@@ -9,6 +9,15 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience specializing in 
 
 ## ℹ️ Latest Project I’ve Worked On
 
+### Code Test Assessment Project
+🔗 [Repo](https://github.com/geriux/time-tracker)
+
+![](https://github.com/geriux/time-tracker/raw/main/assets/images/Header.png)
+
+Time tracker to track your daily activities, this is an Expo project created with create-expo-app.
+
+🚀 **Tech Stack:** React Native, React, Expo, TypeScript, NativeWind, VictoryNative
+
 ### Gutenberg Mobile Editor for the WordPress iOS and Android apps
 🔗 [Repo](https://github.com/wordpress-mobile/gutenberg-mobile)
 
