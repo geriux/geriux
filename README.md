@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gerardo Pacheco
-I'm a **Senior Frontend Engineer** with 10+ years of experience specializing in **React Native, React, TypeScript, and performance-driven UI development**. I build smooth, scalable apps and have a strong eye for design and user experience.
+I'm a **Senior Frontend Engineer** with 10+ years of experience specializing in **React Native, React, TypeScript, GraphQL, Firebase, and performance-driven UI development**. I build smooth, scalable apps and have a strong eye for design and user experience.
 
-💡 **Expertise:** React Native, React, JavaScript, TypeScript, Firebase, Expo, Jest, Appium.
+💡 **Expertise:** React Native, React, JavaScript, TypeScript, Firebase, GraphQL, Expo, Jest, Appium.
 
 🚀 **Currently exploring:** AI-driven software & Mobile Apps development and performance optimizations.  
 
@@ -16,7 +16,7 @@ I'm a **Senior Frontend Engineer** with 10+ years of experience specializing in 
 
 Time tracker to track your daily activities, this is an Expo project created with create-expo-app.
 
-🚀 **Tech Stack:** React Native, React, Expo, TypeScript, NativeWind, VictoryNative
+🚀 **Tech Stack:** React Native, React, Expo, TypeScript, Firebase Data Connect, GraphQL, NativeWind, VictoryNative
 
 ### Gutenberg Mobile Editor for the WordPress iOS and Android apps
 🔗 [Repo](https://github.com/wordpress-mobile/gutenberg-mobile)
