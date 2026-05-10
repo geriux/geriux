@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gerardo Pacheco
-I'm a **Senior Frontend Engineer** with 10+ years of experience specializing in **React Native, React, TypeScript, GraphQL, Firebase, and performance-driven UI development**. I build smooth, scalable apps and have a strong eye for design and user experience.
+I'm a **Senior Frontend Engineer** with over 12 years of experience specializing in **React Native, React, TypeScript, GraphQL, Firebase, and performance-driven UI development**. I build smooth, scalable apps and have a strong eye for design and user experience.
 
 💡 **Expertise:** React Native, React, JavaScript, TypeScript, Firebase, GraphQL, Expo, Jest, Appium.
 
-🚀 **Currently exploring:** AI-driven software & Mobile Apps development and performance optimizations.  
+🚀 **Development workflow:** Actively incorporate AI-assisted development tools like Cursor and Claude Code into my workflow to improve productivity, prototyping, debugging, and development speed.
 
 📫 **Let's connect!:** [LinkedIn](https://www.linkedin.com/in/gerardo-pacheco-sicart/)  
 
