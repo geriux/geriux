@@ -1,9 +1,7 @@
-<a href="https://plantempo.app/?utm_source=github&utm_medium=readme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/home-dark.svg">
-    <img alt="Gerardo Pacheco Sicart, Senior Software Engineer, mobile. Plantempo, my plant-care app for iPhone and Android. Shipping since 2010." src="assets/home-light.svg" width="100%">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/home-dark.svg">
+  <img alt="Gerardo Pacheco Sicart, Senior Software Engineer, mobile. Plantempo, my plant-care app for iPhone and Android. Shipping since 2010." src="assets/home-light.svg" width="100%">
+</picture>
 
 <p>
   <a href="https://plantempo.app/?utm_source=github&utm_medium=readme"><b>Plantempo</b></a> ·
