@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/home-narrow-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/home-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/home-dark.svg">
   <img alt="Gerardo Pacheco Sicart, Senior Software Engineer, mobile. Plantempo, my plant-care app for iPhone and Android. Shipping since 2010." src="assets/home-light.svg" width="100%">
 </picture>
