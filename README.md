@@ -17,9 +17,9 @@
 A plant-care app I designed and built on my own. It reads your local weather, asks you to touch the soil now and then, and learns how fast each plant really dries. One reminder a day, only when it counts. Free, with no account and no ads.
 
 <p>
-  <img src="assets/plantempo/today.jpg" width="31%" alt="Plantempo's Today screen: watering that learns each plant.">&nbsp;
-  <img src="assets/plantempo/identify.jpg" width="31%" alt="Identify a plant from a photo.">&nbsp;
-  <img src="assets/plantempo/garden.jpg" width="31%" alt="The Garden screen with every plant in the house.">
+  <img src="assets/plantempo/today.jpg" width="200" alt="Plantempo's Today screen: watering that learns each plant.">&nbsp;
+  <img src="assets/plantempo/identify.jpg" width="200" alt="Identify a plant from a photo.">&nbsp;
+  <img src="assets/plantempo/garden.jpg" width="200" alt="The Garden screen with every plant in the house.">
 </p>
 
 **Under the hood:** Expo Router, React Native and TypeScript. Skia and Reanimated for the animated scenes, SQLite on the device, and native Swift modules for home-screen widgets, Siri shortcuts and iCloud sync. Plant identification runs on the device on iPhone. Translated into 11 languages with Lingui, released with fastlane.
