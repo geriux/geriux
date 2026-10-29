@@ -19,8 +19,8 @@ A plant-care app I designed and built on my own. It reads your local weather, as
 
 <p>
   <img src="assets/plantempo/today.jpg" width="200" alt="Plantempo's Today screen: watering that learns each plant.">&nbsp;
-  <img src="assets/plantempo/identify.jpg" width="200" alt="Identify a plant from a photo.">&nbsp;
-  <img src="assets/plantempo/garden.jpg" width="200" alt="The Garden screen with every plant in the house.">
+  <img src="assets/plantempo/plant.jpg" width="200" alt="A plant's page: when it drank, when it's next, and how it feels today.">&nbsp;
+  <img src="assets/plantempo/widgets.jpg" width="200" alt="Plantempo's widgets: your windowsill on the Home Screen.">
 </p>
 
 **Under the hood:** Expo Router, React Native and TypeScript. Skia and Reanimated for the animated scenes, SQLite on the device, and native Swift modules for home-screen widgets, Siri shortcuts and iCloud sync. Plant identification runs on the device on iPhone. Translated into 11 languages with Lingui, released with fastlane.
